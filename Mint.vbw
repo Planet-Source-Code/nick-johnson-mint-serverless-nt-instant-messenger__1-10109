@@ -1,0 +1,7 @@
+frmMain = 0, 0, 375, 346, Z, 107, 35, 482, 381, 
+clsNetSend = 0, 0, 375, 346, C
+netUtils = 134, 37, 509, 383, 
+frmSysTray = 0, 0, 456, 273, C, 44, 44, 411, 382, C
+frmOnlineUsers = 88, 88, 455, 424, C, 44, 44, 411, 382, C
+frmMessage = 110, 110, 477, 448, C, 88, 88, 455, 426, C
+cMEssage = 0, 0, 0, 0, C
